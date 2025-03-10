@@ -10,6 +10,8 @@ also make a database traini8db in the MySql workbenche.If you are not using mysq
 Step 4: go to Traini8Application.class file and run the project.Check the api using postman.
 
 Step 5: Use this json data to check the post api at postman.
+
+
 #Input 1:
 {
   "centerName": "Digital Marketing Pro",
